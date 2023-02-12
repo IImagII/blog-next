@@ -1,5 +1,7 @@
 ## Блог написанный с использованием технологии NextJS
 
+![Image alt](https://github.com/IImagII/blog-next/blob/master/next-blog.jpg)
+
 ### Использованный стек технологий:
 - NestJS
 - Node(Express)
